@@ -15,3 +15,10 @@ start wamp/xampp services
 
 on URL bar run 
   localhost/ongeza
+
+Technology used
+1. Bootstrap
+2. Mysql
+3. javascript
+4. PHP
+5. HTML

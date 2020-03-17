@@ -1,5 +1,5 @@
 # ongeza
-ongeza online test
+
 To run/Test this simple project:
 one must have:
 1. wamp/xampp server on the machine

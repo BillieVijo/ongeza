@@ -26,7 +26,7 @@
 				<td><?php echo $data['gender_name']; ?></td>
 				<td width="15%">
 					<a href="update.php?id=<?php echo $data['id']; ?>" class="btn btn-sm btn-info"><i class="fa fa-pencil fa-fw"></i></a>
-                    <a href="delete.php?id=<?php echo $data['id']; ?>" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete  this customer?')"><i class="fa fa-trash fa-fw"></i></a>
+                    <a href="delete.php?id=<?php echo $data['id']; ?>" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete  this customer?')"><i class="fa fa-trash-o fa-fw"></i></a>
                     
                 </td>
 				</tr>
